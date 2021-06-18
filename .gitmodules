@@ -1,0 +1,3 @@
+[submodule "libraries/DirectX"]
+	path = libraries/DirectX
+	url = https://github.com/Weikang01/DirectX-Headers
