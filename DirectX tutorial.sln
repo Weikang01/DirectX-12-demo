@@ -8,24 +8,18 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Debug|x64.ActiveCfg = Debug|x64
 		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Debug|x64.Build.0 = Debug|x64
-		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Debug|x86.ActiveCfg = Debug|Win32
-		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Debug|x86.Build.0 = Debug|Win32
 		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Release|x64.ActiveCfg = Release|x64
 		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Release|x64.Build.0 = Release|x64
-		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Release|x86.ActiveCfg = Release|Win32
-		{CD65F824-639E-49B9-827C-7AA7A4EE2E1A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D4416B6F-9E1F-4577-9E30-7F230D4002DE}
+		SolutionGuid = {9BD4D1E2-1AF1-4187-ADBC-DBE8463DD435}
 	EndGlobalSection
 EndGlobal
